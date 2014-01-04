@@ -1,5 +1,11 @@
 This version 3 files
 
+<<<<<<< HEAD
 This project will GUIDE  me to understand more about Git repositories.
 
 THIS IS TOTALLY AWESOME
+=======
+THIS IS CREATED FOR CHECKED CONFLICT MERGE
+
+This project will help me to understand more about Git repositories.
+>>>>>>> foo_feature
